@@ -11,3 +11,4 @@ def validarUsuario(userName,userPassword):
 nombre="Jose"
 resultado=validarUsuario("Juan","admin123")
 print(resultado)
+
